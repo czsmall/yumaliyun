@@ -3,5 +3,5 @@
 支持RedHat系 5、6、7，root执行以下命令即可。  
   
 ``` shell
- wget -N --no-check-certificate https://raw.githubusercontent.com/AlliotTech/yum2aliyun/master/yumaliyun.sh && chmod +x yum2aliyun.sh && ./yum2aliyun.sh 2>&1 | tee yum2aliyun.log  
+ wget -N --no-check-certificate https://raw.githubusercontent.com/czsmall/yumaliyun/master/yumaliyun.sh && chmod +x yum2aliyun.sh && ./yum2aliyun.sh 2>&1 | tee yum2aliyun.log  
 ```
